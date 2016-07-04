@@ -9,8 +9,7 @@ See which species outlives the other
 
 ### Quick Start
 This code was written as an exercise to familiarise myself with PyGame.  
-You need to download the 2 files 'aquarium v3.0.py' and 'menu.py' on the same folder.  
-Then launch 'aquarium v3.0.py'.
+You need to download the 2 files 'aquarium v3.0.py' and 'menu.py' to the same folder. Then, launch 'aquarium v3.0.py'.
 
 ### Requirements
 You need Pygame. I used version 1.9.2a0.   
