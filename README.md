@@ -9,4 +9,5 @@ See which species outlives the other
 
 
 Requirements:
-You need to install Pygame. I used version 1.9.2a0. Link: http://www.pygame.org/download.shtml
+You need to install Pygame. I used version 1.9.2a0. 
+Link: http://www.pygame.org/download.shtml
