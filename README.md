@@ -10,5 +10,5 @@ See which species outlives the other
 This code was written as an exercise to familiarise myself with PyGame
 
 > **Requirements**:  
-You need to install Pygame. I used version 1.9.2a0.  
+You need Pygame. I used version 1.9.2a0.  
 Link: http://www.pygame.org/download.shtml
