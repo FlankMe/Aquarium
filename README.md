@@ -9,12 +9,12 @@ See which species outlives the other
 
 ### Quick Start
 Download 'aquarium v3.0.py' and 'menu.py' to the same folder. Then, launch 'aquarium v3.0.py'.  
-Alternatively, check out the Youtube video in [here][1].  
-This code was written as an exercise to familiarise myself with PyGame.  
+Alternatively, check out [this video simulation][1] on Youtube.  
+This code was written as an exercise to familiarise with PyGame.  
 
 
 ### Requirements
-* Pygame. I used version 1.9.2a0.  
+* PyGame. I used version 1.9.2a0.  
 You can download it from [here][2]. 
 
 <img src="Aquarium.gif" width="60%" />
