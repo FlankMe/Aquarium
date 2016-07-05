@@ -8,7 +8,7 @@ Simple simulation of an aquarium with fish and predators
 See which species outlives the other
 
 ### Quick Start
-Download 'aquarium v3.0.py' and 'menu.py' to the same folder. Then, launch 'aquarium v3.0.py'.  
+Download `aquarium v3.0.py` and `menu.py` to the same folder. Then, launch `aquarium v3.0.py`.  
 Alternatively, check out [this video simulation][1] on Youtube.  
 This code was written as an exercise to familiarise with PyGame.  
 
